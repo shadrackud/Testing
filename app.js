@@ -1,5 +1,9 @@
-alert('hello world!')
+const day = "friday"
+const postion = 5
 
-const name = "Tester"
+console.log(day)
+console.log(postion)
 
-alert("name")
+const sentence = "it is the 4th day of the week"
+const output = 'Today is thursday ' + '.'  + sentence
+console.log(output)
