@@ -1,9 +1,8 @@
-const day = "friday"
-const postion = 5
 
-console.log(day)
-console.log(postion)
+let number = 50
 
-const sentence = "it is the 4th day of the week"
-const output = 'Today is thursday ' + '.'  + sentence
-console.log(output)
+if (number % 2 === 0) {
+    console.log("number is Even")
+} else {
+    console.log("number is Odd")
+}
